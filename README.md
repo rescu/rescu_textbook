@@ -2,6 +2,7 @@
 Lesson plans for pedagogical approaches to scientific computing
 ## Ch. 0-Introduction
 ### Introduction to Python/Programming
+
 + variables
 + arithmetic
 + boolean logic-and,or
@@ -10,17 +11,23 @@ Lesson plans for pedagogical approaches to scientific computing
 + functions and reusable code; usefulness of functions; classes if theres time
 + good programming practice
 + much of this is best taught by example
+
 ### Plotting-Introduction to Matplotlib
+
 + how to handle figures/axes-setting figure options
 + good plotting practices
 + using colors, labels, legends
 + plotting in higher dimensions-contour plots, surface plots if there's time
 + scaling variables
 + saving figures versus printing to screen
+
 ### Using Numpy and SciPy
+
 + vectors, arrays, matrices
 + emphasize `linspace`,`arange`,etc.
+
 ### LaTeX and Markdown
+
 + using IPython notebook effectively
 + Markdown syntax
 + LaTeX syntax-formatting equations, usefulness outside of IPython environment
