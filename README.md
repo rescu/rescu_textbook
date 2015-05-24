@@ -15,6 +15,7 @@ After that, can either organize by mathematical topic (ODE, data analysis, matri
 + functions and reusable code; usefulness of functions; classes if theres time
 + good programming practice
 + much of this is best taught by example
++ can provide some Project-Euler-type examples to show how these things are useful
 
 ### Plotting-Introduction to Matplotlib
 
