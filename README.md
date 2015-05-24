@@ -1,5 +1,8 @@
 # rescu_textbook
 Lesson plans for pedagogical approaches to scientific computing
+Best to provide at least one chapter on introductory programming practice
+After that, can either organize by mathematical topic (ODE, data analysis, matrices/linear algebra)
+Or organize by physical example-this may be more pedagogical, but less organized in some ways.
 ## Ch. 0-Introduction
 ### Introduction to Python/Programming
 
@@ -32,3 +35,25 @@ Lesson plans for pedagogical approaches to scientific computing
 + Markdown syntax
 + LaTeX syntax-formatting equations, usefulness outside of IPython environment
 + differences between Python, IPython notebook-cell evaluation versus standard scripting environment
+
+## Ch. 1-Solving Ordinary Differential Equations (ODEs) by Example
+
++ briefly describe differential equations
++ basic definition, simple solution methods 
++ avoid calculus-heavy explanations
+
+###Projectile Motion
+
++ basic projectile motion as starting point
++ move toward example with air resistance
+
+### Simple Harmonic Motion
+
++ free pendulum
++ damped and driven pendulum
++ double pendulum
+
+### Gravitation and Radially Symmetric Forces
+
++ two-body problem; could extend to three-body problem if there's time
++ electrostatics
