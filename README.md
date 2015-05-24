@@ -1,8 +1,9 @@
 # rescu_textbook
-Lesson plans for pedagogical approaches to scientific computing
-Best to provide at least one chapter on introductory programming practice
-After that, can either organize by mathematical topic (ODE, data analysis, matrices/linear algebra)
-Or organize by physical example-this may be more pedagogical, but less organized in some ways.
+Lesson plans for pedagogical approaches to scientific computing.
+
+Best to provide at least one chapter on introductory programming practice.
+
+After that, can either organize by mathematical topic (ODE, data analysis, matrices/linear algebra) or organize by physical example-this may be more pedagogical, but less organized in some ways.
 ## Ch. 0-Introduction
 ### Introduction to Python/Programming
 
@@ -57,3 +58,7 @@ Or organize by physical example-this may be more pedagogical, but less organized
 
 + two-body problem; could extend to three-body problem if there's time
 + electrostatics
+
+Other chapters could include root-finding methods, matrix inversion/decomposition, Monte-Carlo methods
+
+All should be framed in a context that's easily accessible to high school students; try to always provide good physical motivation for introducing topics.
