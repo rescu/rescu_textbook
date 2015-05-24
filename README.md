@@ -1,7 +1,7 @@
 # rescu_textbook
 Lesson plans for pedagogical approaches to scientific computing
 ## Ch. 0-Introduction
-###Introduction to Python/Programming
+### Introduction to Python/Programming
 + variables
 + arithmetic
 + boolean logic-and,or
