@@ -1,0 +1,9 @@
+.d3container{
+    margin: auto;
+    width: 50%;
+}
+
+.axis text {
+    font-family: serif;
+    font-size: 50px;
+}
